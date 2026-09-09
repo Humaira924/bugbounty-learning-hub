@@ -1,18 +1,25 @@
-# bugbounty-learning-hub
-My notes on Azure Security &amp; Bug Bounty  A collection of checklists, testing methods, and resources I use while learning Azure security.  Focus: Microsoft Defender for Cloud, Azure AD, Storage Security, and general web app testing with Burp Suite. For learning purposes only.
-## 📚 Topics Covered
-- [ ] Azure Defender for Cloud - Security Recommendations
-- [ ] Azure AD / Entra ID - Conditional Access & MFA
-- [ ] Azure Storage - Public Access & SAS Token Security  
-- [ ] Burp Suite Basics for Web App Testing
+# Azure Free Learning Hub 2026 🇵🇰
 
-## 🛠️ Tools I Use
-- Burp Suite Community
-- Microsoft Defender for Cloud
-- Browser DevTools
-- Azure Portal
+Assalamualaikum! 
+Me beginner hun aur Azure free seekh rahi hun. Jo bhi seekhti hun yahan share karungi.
 
-## ⚠️ Disclaimer
-This repository is for educational purposes only. 
-All testing is done on my own Azure accounts. 
-No confidential vulnerability reports are disclosed here.
+## 🎁 Free Downloads
+### 1. Azure $200 Free Credits Guide [PDF]
+Step by step kaise free account banate hain.
+*Coming Soon*
+
+### 2. AZ-900 Microsoft Fundamentals Notes [PDF]
+Exam pass karne ke liye short notes.
+*Coming Soon*
+
+### 3. Bug Bounty Roadmap for Beginners
+Legal tareeke se start kaise karein.
+*Coming Soon*
+
+## 📌 Topics Covered
+- [ ] Azure Free Account Setup
+- [ ] AZ-900 Exam Preparation  
+- [ ] Microsoft Defender for Cloud Basics
+- [ ] Bug Bounty for Beginners
+
+**Follow karo** - Har hafte nayi free cheez!
