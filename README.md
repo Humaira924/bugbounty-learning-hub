@@ -1,25 +1,34 @@
-# Azure Free Learning Hub 2026 🇵🇰
+# Azure Cloud Learning Hub | Free Microsoft Azure Resources 2026
 
-Assalamualaikum! 
-Me beginner hun aur Azure free seekh rahi hun. Jo bhi seekhti hun yahan share karungi.
+Welcome to the Azure Cloud Learning Hub! 👋  
+I document my journey learning Microsoft Azure from scratch.  
+This hub provides free, high-quality Azure resources for students and developers worldwide.
 
-## 🎁 Free Downloads
-### 1. Azure $200 Free Credits Guide [PDF]
-Step by step kaise free account banate hain.
-*Coming Soon*
+## 🎁 Free Resources
 
-### 2. AZ-900 Microsoft Fundamentals Notes [PDF]
-Exam pass karne ke liye short notes.
-*Coming Soon*
+### 1. [Azure $200 Free Credits - Complete Activation Guide](azure-200-credits-guide.md)
+Step-by-step tutorial to claim your $200 Azure free credits.  
+Includes: Account setup, Billing verification, Cost-saving tips
 
-### 3. Bug Bounty Roadmap for Beginners
-Legal tareeke se start kaise karein.
-*Coming Soon*
+### 2. [AZ-900 Microsoft Azure Fundamentals - Study Guide](az-900-notes.md)
+Complete notes for the AZ-900 certification exam.  
+Includes: 200+ Practice Questions, Exam tips, Cheat sheets
 
-## 📌 Topics Covered
-- [ ] Azure Free Account Setup
-- [ ] AZ-900 Exam Preparation  
-- [ ] Microsoft Defender for Cloud Basics
-- [ ] Bug Bounty for Beginners
+### 3. [Ethical Bug Bounty Roadmap for Beginners](bugbounty-roadmap.md)
+Legal roadmap to start in cybersecurity and bug bounty programs.  
+Includes: Tools list, Learning path, Safe practice guidelines
 
-**Follow karo** - Har hafte nayi free cheez!
+## 📚 Learning Tracks
+
+| Track | Level | Duration | Status |
+| --- | --- | --- | --- |
+| Azure Fundamentals AZ-900 | Beginner | 2 Weeks | Available Now |
+| Azure Security & Defender | Intermediate | 4 Weeks | Coming Soon |
+| Cloud Cost Optimization | All Levels | 1 Week | Coming Soon |
+
+## ⭐ Support
+If this helped you, please Star this repository.  
+New free resources added every week.
+
+---
+*Disclaimer: All content is for educational purposes only.*
