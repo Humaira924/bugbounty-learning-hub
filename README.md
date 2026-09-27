@@ -1,34 +1,31 @@
-# Azure Cloud Learning Hub | Free Microsoft Azure Resources 2026
+# bugbounty-learning-hub | by humaira924
 
-Welcome to the Azure Cloud Learning Hub! 👋  
-I document my journey learning Microsoft Azure from scratch.  
-This hub provides free, high-quality Azure resources for students and developers worldwide.
+This repo is my journey from zero to Microsoft MSRC & GitHub Security Researcher.
 
-## 🎁 Free Resources
+## 🎯 Current Focus: Microsoft Azure SDKs
+I am currently researching vulnerabilities in:
+- `azure-sdk-for-python`
+- `@azure/core-client` 
+- Azure DevOps Pipelines
 
-### 1. [Azure $200 Free Credits - Complete Activation Guide](azure-200-credits-guide.md)
-Step-by-step tutorial to claim your $200 Azure free credits.  
-Includes: Account setup, Billing verification, Cost-saving tips
+### 🔍 My MSRC Reports (Sep 2026)
+| ID | Title | Status |
+|---|---|---|
+| 1 | Azure DevOps System.AccessToken Exposure | Under Review |
+| 2 | Critical RCE in azure-sdk-for-python | Under Review |
+| 3 | Prototype Pollution @azure/core-client | Under Review |
+| 4 | SSRF in @azure services | Fixed |
+| 5 | Info Disclosure in ClientSecretCredential | Under Review |
 
-### 2. [AZ-900 Microsoft Azure Fundamentals - Study Guide](az-900-notes.md)
-Complete notes for the AZ-900 certification exam.  
-Includes: 200+ Practice Questions, Exam tips, Cheat sheets
+> Note: Details will be published only after fix as per responsible disclosure.
 
-### 3. [Ethical Bug Bounty Roadmap for Beginners](bugbounty-roadmap.md)
-Legal roadmap to start in cybersecurity and bug bounty programs.  
-Includes: Tools list, Learning path, Safe practice guidelines
+## 🛠️ Learning Log
+- Day 1-10: Learned POC creation for SSRF & RCE
+- Day 11-20: Submitted 6 reports to MSRC
+- Next: Writing public writeups after fix
 
-## 📚 Learning Tracks
-
-| Track | Level | Duration | Status |
-| --- | --- | --- | --- |
-| Azure Fundamentals AZ-900 | Beginner | 2 Weeks | Available Now |
-| Azure Security & Defender | Intermediate | 4 Weeks | Coming Soon |
-| Cloud Cost Optimization | All Levels | 1 Week | Coming Soon |
-
-## ⭐ Support
-If this helped you, please Star this repository.  
-New free resources added every week.
+## 📫 Contact
+Found something? Let's connect: [Your LinkedIn / Twitter]
 
 ---
-*Disclaimer: All content is for educational purposes only.*
+**Disclaimer:** All findings reported responsibly to vendors first.
