@@ -1,31 +1,41 @@
-# bugbounty-learning-hub | by humaira924
+# 🛡️ Bug Bounty Learning Hub for Beginners
 
-This repo is my journey from zero to Microsoft MSRC & GitHub Security Researcher.
+I am a Security Researcher. I found a Critical 10.0 Vercel Token Leak and other high-severity vulnerabilities.
 
-## 🎯 Current Focus: Microsoft Azure SDKs
-I am currently researching vulnerabilities in:
-- `azure-sdk-for-python`
-- `@azure/core-client` 
-- Azure DevOps Pipelines
+This repository shares my free notes for beginners.
 
-### 🔍 My MSRC Reports (Sep 2026)
-| ID | Title | Status |
-|---|---|---|
-| 1 | Azure DevOps System.AccessToken Exposure | Under Review |
-| 2 | Critical RCE in azure-sdk-for-python | Under Review |
-| 3 | Prototype Pollution @azure/core-client | Under Review |
-| 4 | SSRF in @azure services | Fixed |
-| 5 | Info Disclosure in ClientSecretCredential | Under Review |
+### 🔥 Get My Complete 100+ ChatGPT Prompts for Bug Bounty - $7
 
-> Note: Details will be published only after fix as per responsible disclosure.
+Includes prompts for XSS, SSRF, IDOR, SQLi, Recon, and Report Writing.
 
-## 🛠️ Learning Log
-- Day 1-10: Learned POC creation for SSRF & RCE
-- Day 11-20: Submitted 6 reports to MSRC
-- Next: Writing public writeups after fix
+👉 Gumroad: https://humaira924.gumroad.com/l/bugbounty-prompts
 
-## 📫 Contact
-Found something? Let's connect: [Your LinkedIn / Twitter]
+### 💖 Support My Work
+
+My GitHub Sponsors application is on the waitlist.
+You can support me here:
+☕ Buy Me a Coffee: https://buymeacoffee.com/humaira924
 
 ---
-**Disclaimer:** All findings reported responsibly to vendors first.
+### Free 10 Prompts
+
+1.  Recon: List 15 passive recon techniques for target.com to find subdomains and secrets.
+
+2.  XSS: Generate 5 advanced XSS payloads to bypass WAF for parameter [PARAM].
+
+3.  IDOR: Create an IDOR testing checklist for /api/v1/user/123 endpoint.
+
+4.  SSRF: Generate 10 SSRF payloads to access 169.254.169.254 and internal services.
+
+5.  SQLi: Provide time-based SQL injection payloads for this login form.
+
+6.  Report: Write a professional HackerOne report for a Critical SSRF to Token Leak with CVSS 10.0.
+
+7.  Secrets: Analyze this JS file and extract API keys and hidden endpoints.
+
+8.  Nuclei: Create a Nuclei template to detect exposed .env files with VERCEL_TOKEN.
+
+9.  Roadmap: Create a 7-day plan to find your first P1 bug on HackerOne.
+
+10. Automation: Write a bash script to find XSS candidates using Subfinder and Httpx.
+11. 
